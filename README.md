@@ -70,8 +70,5 @@ Core concepts every SOC analyst should know cold.
 
 Feel free to connect or reach out — always open to feedback on these write-ups.
 
-**LinkedIn:** _add your link here_
+**LinkedIn:** [Kendall A. Chacon Vargas](https://www.linkedin.com/in/kndch/)
 **GitHub:** [Kendall-Sec](https://github.com/Kendall-Sec)
-=======
-🚧 Work in progress — actively adding write-ups and concepts as I complete my SOC path.
->>>>>>> a9573bce873751470c60115e8f968a552ef55968
