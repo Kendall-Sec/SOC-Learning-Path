@@ -101,9 +101,7 @@ Using Firefox Developer Tools, the embedded hyperlink was extracted.
 
 ### Screenshot
 
-```
-images/redirection_URL.jpg
-```
+![Redirection URL](images/redirection_URL.png)
 
 ---
 
@@ -125,9 +123,7 @@ The archive was downloaded and hashed.
 
 ### Screenshot
 
-```
-images/exposed_directories.png
-```
+![Exposed Directory Listing](images/exposed_directories.png)
 
 ---
 
@@ -150,9 +146,7 @@ Results showed:
 
 ### Screenshot
 
-```
-images/hash_analysis.jpg
-```
+![VirusTotal Hash Analysis](images/hash_analysis.png)
 
 ---
 
@@ -174,9 +168,7 @@ One employee submitted credentials multiple times.
 
 ### Screenshot
 
-```
-images/compromised_credentials_log.jpg
-```
+![Compromised Credentials Log](images/compromised_credentials_log.png)
 
 ---
 
@@ -205,9 +197,7 @@ $sbron = "Outlook update $ip | Office365";
 
 ### Screenshot
 
-```
-images/collector_email.png
-```
+![Collector Email Exfiltration Code](images/collector_email.png)
 
 ---
 

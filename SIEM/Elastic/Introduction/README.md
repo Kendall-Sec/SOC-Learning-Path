@@ -14,6 +14,8 @@ Originally, ELK stood for:
 
 Today, the Elastic Stack also includes **Beats** for lightweight data collection.
 
+![Elastic Stack Overview](images/Elastic_overview.png)
+
 ---
 
 ## Why is the Elastic Stack important?
@@ -68,6 +70,8 @@ Analysts use Kibana to:
 - Investigate alerts
 - Monitor security events
 
+![Kibana Log Search](images/Elastic_log.png)
+
 ---
 
 ### Beats
@@ -106,6 +110,8 @@ Elasticsearch
       ▼
 SOC Analyst
 ```
+
+![Elastic Stack Architecture](images/Elastic_Architecture.png)
 
 ---
 

@@ -82,9 +82,7 @@ SOC analysts use Cisco Talos to quickly determine whether network infrastructure
 - Email reputation
 - WHOIS information
 
-📷 **Recommended Screenshot**
-
-- Cisco Talos IP/Domain reputation lookup
+![Cisco Talos IP/Domain Reputation Lookup](images/cisco_talos.png)
 
 ---
 
@@ -123,9 +121,7 @@ VirusTotal should not be used solely based on the number of detections. Analysts
 - Community analysis
 - Historical reputation
 
-📷 **Recommended Screenshot**
-
-- VirusTotal analysis of a malicious file or URL
+![VirusTotal Analysis of a Malicious File or URL](images/virus_total.png)
 
 ---
 
@@ -160,9 +156,7 @@ Sandbox analysis is especially valuable when investigating malicious email attac
 - Network traffic visualization
 - Behavioral timeline
 
-📷 **Recommended Screenshot**
-
-- ANY.RUN sandbox behavior overview
+![ANY.RUN Sandbox Behavior Overview](images/any.run.png)
 
 ---
 
@@ -196,9 +190,7 @@ PhishTool simplifies email investigations by organizing relevant artifacts into 
 - Header parsing
 - Investigation workflow support
 
-📷 **Recommended Screenshot**
-
-- PhishTool investigation dashboard
+![PhishTool Investigation Dashboard](images/phishtool.png)
 
 ---
 

@@ -70,9 +70,7 @@ Collected information:
 
 ### Screenshot
 
-```
-images/email.png
-```
+![Phishing Email](images/email.png)
 
 ---
 
@@ -92,9 +90,7 @@ The message source also revealed the Return-Path domain used later for SPF and D
 
 ### Screenshot
 
-```
-images/source_analysis.png
-```
+![Email Source Analysis](images/source_analysis.png)
 
 ---
 
@@ -136,9 +132,7 @@ Although these security controls were correctly configured, attackers can still 
 
 ### Screenshot
 
-```
-images/ip_domain_intel.png
-```
+![IP and Domain Intelligence](images/ip_domain_intel.png)
 
 ---
 
@@ -178,9 +172,7 @@ The mismatch between the displayed filename and the actual archive format is a c
 
 ### Screenshot
 
-```
-images/hash_analysis.png
-```
+![VirusTotal Hash Analysis](images/hash_analysis.png)
 
 ---
 

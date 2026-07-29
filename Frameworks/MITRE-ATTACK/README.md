@@ -86,6 +86,8 @@ PowerShell
 
 PowerShell is one specific way of executing commands.
 
+![Tactics, Techniques, and Sub-Techniques](images/tactics-tech-subtech.png)
+
 ---
 
 # ATT&CK Matrix
@@ -103,6 +105,8 @@ Example:
 | Discovery         | System Information Discovery |
 | Lateral Movement  | Remote Services              |
 | Impact            | Data Encryption for Impact   |
+
+![ATT&CK Matrix](images/mitre-matrix.png)
 
 The matrix allows analysts to quickly map observed activity.
 
@@ -163,6 +167,8 @@ SOC analysts use it to:
 - Measure defensive coverage
 - Track adversary techniques
 - Plan threat hunting activities
+
+![ATT&CK Navigator](images/navigator.png)
 
 ---
 

@@ -6,6 +6,8 @@
 
 Splunk is a Security Information and Event Management (SIEM) platform that collects, indexes, searches, and visualizes machine-generated data. It enables SOC analysts to investigate security events, detect threats, and monitor infrastructure through powerful search capabilities.
 
+![Splunk Dashboard](images/splunk_dashboard.png)
+
 ---
 
 ## Why is Splunk important?
@@ -104,6 +106,8 @@ index=windows EventCode=4688
 
 Counts process executions grouped by process name.
 
+![SPL Query Example](images/query.png)
+
 ---
 
 ## Common Analyst Workflow
@@ -129,6 +133,8 @@ A SOC analyst commonly works with:
 - Fields Panel
 - Statistics View
 - Visualization Dashboard
+
+![Splunk Search Interface](images/search.png)
 
 ---
 

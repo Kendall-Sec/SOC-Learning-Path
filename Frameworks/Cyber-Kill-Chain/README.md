@@ -8,6 +8,8 @@ The Cyber Kill Chain is a cybersecurity framework developed by **Lockheed Martin
 
 It helps defenders understand how attackers operate so they can detect and disrupt attacks before they achieve their objectives.
 
+![Cyber Kill Chain Overview](images/cyber-kill-chain.png)
+
 ---
 
 ## Why is it important?
@@ -184,6 +186,8 @@ Imagine a ransomware attack:
 5. Malware installs itself and creates persistence.
 6. The infected host connects to a C2 server.
 7. The attacker encrypts company files and demands payment.
+
+![Example Attack Walkthrough](images/example.png)
 
 Every step follows the Cyber Kill Chain.
 

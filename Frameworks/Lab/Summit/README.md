@@ -33,7 +33,7 @@ Registry Value:
 DisableRealtimeMonitoring = 1
 ```
 
-![Registry Activity](images/registry.png)
+![Registry Activity](images/sample3_registry.png)
 
 ---
 
@@ -95,7 +95,7 @@ DisableRealtimeMonitoring = 1
 4663
 ```
 
-![Sigma Rule Builder](images/sigma-builder.png)
+![Sigma Rule Builder](images/sample3_sysmon.png)
 
 ---
 
@@ -103,7 +103,7 @@ DisableRealtimeMonitoring = 1
 
 The generated Sigma rule detects future attempts to disable Windows Defender by monitoring registry modifications associated with the `DisableRealtimeMonitoring` value.
 
-![Sigma Rule](images/sigma-rule.png)
+![Sigma Rule](images/sample3_rule.png)
 
 This behavior-based detection is significantly more resilient than detecting a specific malware hash or filename because it focuses on attacker techniques rather than static indicators.
 

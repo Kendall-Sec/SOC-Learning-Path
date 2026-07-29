@@ -8,6 +8,8 @@ The Pyramid of Pain is a cybersecurity framework created by **David J. Bianco**.
 
 The higher an indicator appears on the pyramid, the more disruptive it is for an attacker when defenders detect and block it.
 
+![Pyramid of Pain](images/pyramid_of_pain.png)
+
 ---
 
 ## Why is it important?
@@ -202,6 +204,8 @@ creates a scheduled task, and connects to an external IP.
 
 Changing this behavior is significantly more difficult for the attacker.
 
+![Behavioral Detection vs IOCs](images/behavioral_vs_iocs.png)
+
 ---
 
 ## Relation to MITRE ATT&CK
@@ -211,6 +215,8 @@ The Pyramid of Pain complements the MITRE ATT&CK framework.
 While MITRE describes **attacker tactics and techniques**, the Pyramid of Pain explains **which detections are most disruptive** to those attackers.
 
 Together, they help SOC analysts build more effective detection strategies.
+
+![Pyramid of Pain and MITRE ATT&CK Example](images/mitre_example.png)
 
 ---
 

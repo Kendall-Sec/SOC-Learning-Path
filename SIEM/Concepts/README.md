@@ -6,6 +6,8 @@
 
 A Security Information and Event Management (SIEM) system is a centralized platform that collects, stores, correlates, and analyzes logs from multiple devices and applications. It helps Security Operations Center (SOC) analysts detect, investigate, and respond to security incidents.
 
+![SIEM Architecture](images/siem_architecture.png)
+
 ---
 
 ## Why is a SIEM important?
@@ -58,6 +60,8 @@ Combines related events from different systems to identify suspicious activity t
 ### Alerting
 
 Generates alerts when predefined detection rules or correlation rules are triggered.
+
+![SIEM Alerts](images/alerts.png)
 
 ### Investigation
 

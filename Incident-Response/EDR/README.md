@@ -22,6 +22,8 @@ Endpoint Detection and Response (EDR) continuously monitors endpoints to detect,
 - **Process tree**
   - Reveals parent-child relationships used during investigations.
 
+  ![Process Tree](images/process-tree.png)
+
 - **Command line**
   - Displays arguments passed to executables, often revealing attacker intent.
 
@@ -43,6 +45,8 @@ Endpoint Detection and Response (EDR) continuously monitors endpoints to detect,
 | Limited telemetry | Rich endpoint telemetry         |
 
 The dashboard provides a high-level overview of the endpoint security posture.
+
+![EDR Dashboard](images/dashboard.png)
 
 ### Key sections
 
