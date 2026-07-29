@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🛡️ SOC Learning Path
 
 Documentation, methodologies, and technical write-ups from my path into SOC / blue-team work — incident response, threat hunting, SIEM, and phishing analysis, written up the way I'd document them on the job.
