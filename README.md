@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ SOC Learning Path
 
 Documentation, methodologies, and technical write-ups from my path into SOC / blue-team work — incident response, threat hunting, SIEM, and phishing analysis, written up the way I'd document them on the job.
@@ -71,3 +72,6 @@ Feel free to connect or reach out — always open to feedback on these write-ups
 
 **LinkedIn:** _add your link here_
 **GitHub:** [Kendall-Sec](https://github.com/Kendall-Sec)
+=======
+🚧 Work in progress — actively adding write-ups and concepts as I complete my SOC path.
+>>>>>>> a9573bce873751470c60115e8f968a552ef55968
