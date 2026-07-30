@@ -71,4 +71,4 @@ Feel free to connect or reach out — always open to feedback on these write-ups
 
 **LinkedIn:** [Kendall A. Chacon Vargas](https://www.linkedin.com/in/kndch/)
 **GitHub:** [Kendall-Sec](https://github.com/Kendall-Sec)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kendall.a.chacon@gmail.com)
+**Email:** [✉️](mailto:kendall.a.chacon@gmail.com)
