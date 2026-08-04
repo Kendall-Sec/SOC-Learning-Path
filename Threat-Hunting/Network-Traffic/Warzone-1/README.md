@@ -116,7 +116,7 @@ These files were retrieved from the suspicious external infrastructure and are c
 
 Wireshark was used to inspect the TCP stream associated with the suspicious download activity.
 
-![TCP Stream](assets/tcp_stream.png)
+![TCP Stream](assets/tcp_streams.png)
 
 Following the TCP stream confirmed the transfer of installer data from the remote host to the compromised endpoint, providing packet-level validation of the payload download observed in Brim.
 
